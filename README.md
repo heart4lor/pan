@@ -30,10 +30,15 @@
 #### 2.1.1 程序结构
 
 Pan
+
 ├── Client.java
+
 ├── MainUI.java
+
 ├── Regist.java
+
 ├── Server.java
+
 └── ServerThread.java
 
 #### 2.1.2 数据结构
