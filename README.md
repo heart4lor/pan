@@ -30,6 +30,7 @@
 #### 2.1.1 程序结构
 
 Pan
+
 ├── Client.java
 ├── MainUI.java
 ├── Regist.java
